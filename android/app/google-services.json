@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796386447489",
+    "project_id": "fir-tutorial-65078",
+    "storage_bucket": "fir-tutorial-65078.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796386447489:android:682bb0a3993c6a19f57d80",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bWEiCNziJdCciqiea-m4K4h7GBPhZhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796386447489:android:0b868c656c9de342f57d80",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bWEiCNziJdCciqiea-m4K4h7GBPhZhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
